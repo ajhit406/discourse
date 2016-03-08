@@ -1,4 +1,4 @@
 {
   "template": "rails",
-  "ports": [8000, 9000, 10000]
+  "ports": [3000]
 }
