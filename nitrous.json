@@ -1,4 +1,7 @@
 {
   "template": "rails",
-  "ports": [3000]
+  "ports": [3000],
+  "name": "Discourse",
+  "logo": "",
+  "description": "A platform for community discussion. Free, open, simple."
 }
