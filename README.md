@@ -28,6 +28,11 @@ Browse [lots more notable Discourse instances](http://www.discourse.org/faq/cust
 
 Before you get started, ensure you have the following minimum versions: [Ruby 2.0.0+](http://www.ruby-lang.org/en/downloads/), [PostgreSQL 9.3+](http://www.postgresql.org/download/), [Redis 2.6+](http://redis.io/download). If you're having trouble, please see our [**TROUBLESHOOTING GUIDE**](docs/TROUBLESHOOTING.md) first!
 
+## Nitrous Quickstart
+You can quickly create a discourse development project in the cloud on www.nitrous.io:
+
+[![Nitrous Quickstart](https://nitrous-image-icons.s3.amazonaws.com/quickstart.svg)](https://www.nitrous.io/project/new)
+
 ## Setting up Discourse
 
 If you want to set up a Discourse forum for production use, see our [**Discourse Install Guide**](docs/INSTALL.md).
