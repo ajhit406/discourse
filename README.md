@@ -31,7 +31,7 @@ Before you get started, ensure you have the following minimum versions: [Ruby 2.
 ## Nitrous Quickstart
 You can quickly create a discourse development project in the cloud on www.nitrous.io:
 
-[![Nitrous Quickstart](https://nitrous-image-icons.s3.amazonaws.com/quickstart.svg)](https://www.nitrous.io/project/new)
+[![Nitrous Quickstart](https://nitrous-image-icons.s3.amazonaws.com/quickstart.svg)](https://www.nitrous.io/quickstart)
 
 ## Setting up Discourse
 
